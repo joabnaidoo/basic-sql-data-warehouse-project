@@ -377,4 +377,4 @@ The skills demonstrated here are transferable to real-world data environments wh
 For more information about my professional experience or other projects in my portfolio, please visit my GitHub and LinkedIn profiles.
 
 * **GitHub:** [Your GitHub Profile]
-* **LinkedIn:** [Your LinkedIn Profile]
+* **LinkedIn:** https://www.linkedin.com/in/ joab-naidoo-76250019a
