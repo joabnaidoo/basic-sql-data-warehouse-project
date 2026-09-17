@@ -272,6 +272,7 @@ These checks help establish confidence that transformations have not unintention
 
 # 📁 Repository Structure
 
+```text
 data-warehouse-project/
 │
 ├── datasets/
@@ -297,7 +298,9 @@ data-warehouse-project/
 ├── README.md                    # Project documentation
 ├── LICENSE                      # Project licence
 └── .gitignore                   # Git exclusions
+```
 
+---
 
 # 📚 Documentation
 
